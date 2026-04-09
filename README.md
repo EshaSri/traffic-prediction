@@ -14,7 +14,7 @@ Pandas, NumPy
 
 #How to Run
 Clone the repository
-git clone https://github.com/YOUR_USERNAME/traffic-prediction.git
+git clone https://github.com/EshaSri/traffic-prediction.git
 Go to the project folder
 cd traffic-prediction
 Install required libraries
